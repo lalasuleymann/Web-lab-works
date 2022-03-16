@@ -1,0 +1,77 @@
+.main .name{
+    padding: 10px;
+    text-align: center;
+}
+.main .my-image{
+    display: block;
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 500px;
+    height: 450px;
+}
+.main .links ul{
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.main .links ul li{
+    padding: 10px;
+}
+
+.main .links ul li a{
+    color: black;
+    text-decoration: none;
+}
+.main .links ul li :hover{
+    color: red;
+}
+.body{
+    display: flex;
+}
+.list-html p{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 25px;
+}
+.list-html ul{
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+}
+.list-html ul li{
+    padding: 5px;
+}
+.form{
+    margin-top: 100px;
+    text-align: center;
+}
+.form .name{
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.form .surname{
+    border-radius: 5px;
+}
+.form label{
+    color: #4a93ec;
+}
+.form .btn-submit{
+    width: 80px;
+    height: 25px;
+    background-color: #4a93ec;
+    border-radius: 5px;
+    color: white;
+}
+.back a{
+    margin: 50px;
+    color: black;
+    text-decoration: none;
+}
+.back  :hover{
+    color: red;
+}
+.table{
+    margin: 50px;
+}
+.table, th, td {
+    border: 1px solid black;
+}
